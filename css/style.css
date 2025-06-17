@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+:root {
+  --white: hsl(0, 100%, 100%);
+  --purpleVeryLight: hsl(275, 100%, 97%);
+  --purpleMiddleLight: hsl(292, 16%, 49%);
+  --purpleDark: hsl(292, 42%, 14%);
+}
+
+body {
+  font-family: "Work Sans", sans-serif;
+}/*# sourceMappingURL=style.css.map */
